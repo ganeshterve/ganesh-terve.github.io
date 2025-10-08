@@ -7,17 +7,16 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Ganesh Terve's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Ganesh Terve
+headline: MS in Computational Mechanics of Materials and Structures. (University of Stuttgart)
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I’m Ganesh Vasant Terve, a Simulation Engineer with over three years of hands-on industrial experience in metallurgical testing, R&D, and structural analysis.
+  My expertise lies in bridging the gap between experimental validation and numerical simulation — transforming real-world testing data into accurate, high-fidelity LS-DYNA and ANSYS models.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
